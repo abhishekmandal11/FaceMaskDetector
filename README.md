@@ -22,9 +22,9 @@ The Real-Time Face Mask Detector project is a Python-based application designed 
    ```
 
 **Usage:**
-1. Run the main Python script `face_mask_detector.py` using the following command:
+1. Run the main Python script `train_mask_detector.py` using the following command:
    ```
-   python face_mask_detector.py
+   python train_mask_detector.py
    ```
 2. Follow the instructions provided in the terminal or command prompt to select the input source (e.g., webcam, video file).
 3. The application will start detecting faces and classifying them as "with mask" or "without mask" in real-time.
