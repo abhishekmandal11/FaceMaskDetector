@@ -1,6 +1,4 @@
 # FaceMaskDetector
-The Real-Time Face Mask Detector project is a Python-based application designed to detect whether individuals in a given frame of a video stream or an image are wearing face masks or not. 
-**Project Name: Real-Time Face Mask Detector**
 
 **Description:**
 The Real-Time Face Mask Detector project is a Python-based application designed to detect whether individuals in a given frame of a video stream or an image are wearing face masks or not. This project utilizes computer vision techniques and deep learning algorithms to analyze and classify faces into two categories: "with mask" and "without mask".
@@ -16,7 +14,7 @@ The Real-Time Face Mask Detector project is a Python-based application designed 
 
 **Installation:**
 1. Ensure you have Python installed on your system. If not, download and install Python from [python.org](https://www.python.org/).
-2. Clone or download the project repository from [GitHub](https://github.com/yourusername/face-mask-detector).
+2. Clone or download the project repository.
 3. Navigate to the project directory in your terminal or command prompt.
 4. Install the required dependencies by running the following command:
    ```
@@ -39,15 +37,17 @@ Contributions to the Real-Time Face Mask Detector project are welcome. If you wo
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-**License:**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 **Acknowledgments:**
 - The Real-Time Face Mask Detector project utilizes various open-source libraries and resources, including TensorFlow, Keras, OpenCV, and Imutils. Special thanks to the contributors of these projects.
 - This project was inspired by the need to promote public health and safety measures during the COVID-19 pandemic.
 
 **Contact:**
-For any inquiries or feedback regarding the Real-Time Face Mask Detector project, please contact [Your Name](mailto:youremail@example.com).
+For any inquiries or feedback regarding the Real-Time Face Mask Detector project, please contact [Your Name](mailto:abhishek.mandal.9999@gmail.com).
 
 **Author:**
-[Your Name](https://github.com/yourusername)
+[Abhishek Mandal](https://github.com/abhishekmandal11)
+
+
+**License:**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
